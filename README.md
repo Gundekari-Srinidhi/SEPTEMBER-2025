@@ -17,6 +17,7 @@
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2722-prime-in-diagonal](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2831-number-of-beautiful-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -33,6 +34,7 @@
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2722-prime-in-diagonal](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2831-number-of-beautiful-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Binary Search
+|  |
+| ------- |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 <!---LeetCode Topics End-->
