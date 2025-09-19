@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2722-prime-in-diagonal](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2722-prime-in-diagonal) |
@@ -14,6 +15,7 @@
 | ------- |
 | [1543-simplified-fractions](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1585-the-kth-factor-of-n) |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -31,6 +33,7 @@
 | ------- |
 | [1543-simplified-fractions](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1585-the-kth-factor-of-n) |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -67,4 +70,12 @@
 |  |
 | ------- |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+## Geometry
+|  |
+| ------- |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+## Sorting
+|  |
+| ------- |
+| [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
