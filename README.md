@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1372-check-if-it-is-a-good-array) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -17,6 +18,7 @@
 | [1372-check-if-it-is-a-good-array](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1585-the-kth-factor-of-n) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -36,6 +38,7 @@
 | [1372-check-if-it-is-a-good-array](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1585-the-kth-factor-of-n) |
+| [2301-count-array-pairs-divisible-by-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
