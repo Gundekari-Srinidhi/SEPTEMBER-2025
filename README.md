@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1372-check-if-it-is-a-good-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -75,6 +76,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 ## Geometry
 |  |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
