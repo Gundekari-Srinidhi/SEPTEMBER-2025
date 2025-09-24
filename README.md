@@ -80,6 +80,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0278-first-bad-version) |
 | [0400-nth-digit](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0400-nth-digit) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 ## Geometry
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
