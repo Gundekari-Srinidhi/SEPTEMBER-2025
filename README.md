@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0069-sqrtx) |
+| [0400-nth-digit](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0400-nth-digit) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1372-check-if-it-is-a-good-array) |
 | [1543-simplified-fractions](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1585-the-kth-factor-of-n) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0069-sqrtx) |
+| [0400-nth-digit](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0400-nth-digit) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 ## Geometry
 |  |
