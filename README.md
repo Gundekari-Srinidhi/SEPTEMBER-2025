@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0049-group-anagrams) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1372-check-if-it-is-a-good-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0049-group-anagrams) |
 | [2831-number-of-beautiful-pairs](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2831-number-of-beautiful-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
@@ -64,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0049-group-anagrams) |
 | [1543-simplified-fractions](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1543-simplified-fractions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -90,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0049-group-anagrams) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 ## Divide and Conquer
 |  |
