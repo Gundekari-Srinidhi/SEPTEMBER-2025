@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0217-contains-duplicate) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1372-check-if-it-is-a-good-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0217-contains-duplicate) |
 | [2831-number-of-beautiful-pairs](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2831-number-of-beautiful-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0217-contains-duplicate) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 ## Divide and Conquer
 |  |
