@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0219-contains-duplicate-ii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/1372-check-if-it-is-a-good-array) |
@@ -37,6 +38,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0200-number-of-islands) |
 | [2722-prime-in-diagonal](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
@@ -116,4 +118,16 @@
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0201-bitwise-and-of-numbers-range) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gundekari-Srinidhi/SEPTEMBER-2025/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
